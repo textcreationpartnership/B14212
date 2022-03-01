@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before his Maiestie at the court at Greenewich the 2. of Iuly. 1632. By Geo: Iay Mr. of Arts and late student of Christ-church in Oxon</title>
+            <author>Jay, George, b. 1597 or 8.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1632</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14212</idno>
+            <idno type="STC">STC 14479.3</idno>
+            <idno type="STC">ESTC S103190</idno>
+            <idno type="EEBO-CITATION">99838947</idno>
+            <idno type="PROQUEST">99838947</idno>
+            <idno type="VID">176866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14212)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176866)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 715:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before his Maiestie at the court at Greenewich the 2. of Iuly. 1632. By Geo: Iay Mr. of Arts and late student of Christ-church in Oxon</title>
+                  <author>Jay, George, b. 1597 or 8.</author>
+               </titleStmt>
+               <extent>[6], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Augustine Mathewes,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1632.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 21 misnumbered 11.</note>
+                  <note>Identified as STC 14479a on UMI microfilm reel 715, and as STC 14479.5 in the Folger Shakespeare Library catalogue.</note>
+                  <note>Running title reads: A sermon preached at the court.</note>
+                  <note>A sermon on Revelation 2:10.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176866:1"/>
+            <pb facs="tcp:176866:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED BEFORE HIS MAIESTIE AT THE COVRT AT GREENEWICH the 2. of IVLY. 1632.</p>
+            <p>BY GEO: IAY M<hi rend="sup">r.</hi> OF ARTS AND LATE STV<g ref="char:EOLhyphen"/>DENT OF CHRIST-CHVRCH in OXON.</p>
+            <p>Imprinted at London by <hi>Au<g ref="char:EOLhyphen"/>guſtine Mathewes.</hi> 1632.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176866:2"/>
+            <pb facs="tcp:176866:2"/>
+            <head>TO THE RIGHT HONORABLE, THE COVNTESSE OF DENBEIGH, LADY OF HER MAIESTIES Bed-chamber, and Miſtriſſe of her Robes.</head>
+            <opener>
+               <salute>RIGHT HONORABLE,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ome that have conceiv'd better of this then I can at the hearing (though it received little advantage by my delivery) thought it worthy to be publiſhed, to which when I was perſwaded, I did not much ſtudy to whom I ſhould dedicate it. For to whom ſhould I preſent my ſervice in this kind, but to her, who of all others hath given ſo many notable examples of religion, and ſo
+<pb facs="tcp:176866:3"/>much cheriſht the profeſſors of it, and my ſelfe amongſt the reſt. Religion and lear<g ref="char:EOLhyphen"/>ning in theſe latter dayes never found a greater Patroneſſe. You have beene the good Angell that when the waters were troubled have helpt the diſtreſſed into the poole.
+<note place="margin">Iohn 5.2.</note> The grapes in Babell ſent upon a time to the Vine leaves in Iudaea deſiring their ſhadow, leaſt they were parcht with the heate:
+<note place="margin">Talmud Cholm. 62.1</note> Our ſuccorleſſe cluſters need not ſend ſo farre for protection, did your branches ſpread (under which the beaſts of the field,
+<note place="margin">Dan. 4.12.</note> and the foules of heaven had their habitations) as heeretofore when the great Duke (my gratious Maſter for a moment) your illuſtrious brother lived.
+<note place="margin">During the intended expedition to Rochell.</note> were your power as great as then, or as your diſpoſition is good, my hopes would live though his excellency and my noble Lord of Angleſey, (whom I ſhall ever name with honour and ſorrow) are dead. And I make no queſtion but that J ſhould only finde an exchange, not a loſſe, and at laſt
+<pb facs="tcp:176866:3"/>a happy ſucceſſe of thoſe many gratious re<g ref="char:EOLhyphen"/>ferences, from his ſacred Majeſtie (whom God preſerve) for which I ſhall ever thinke my ſelfe bound to thanke your Ho<g ref="char:EOLhyphen"/>nour and your noble kinſeman Maſter <hi>Porter.</hi>
+            </p>
+            <p>How can I conceive otherwiſe ſince your Honour lately without requeſt free<g ref="char:EOLhyphen"/>ly, and voluntarily offered me preferment of your owne, untill you could procure mee better. I preſume you deſire not to have this publiſht,
+<note place="margin">Math. 9.30.</note> yet our Saviour that char<g ref="char:EOLhyphen"/>ged the two blinde men that they ſhould tell no man,
+<note place="margin">Luke 17.18.</note> did not miſlike the turning backe of the thankefull ſtranger: ſhould I conceale it, I ſhould not doe right to your ſweete and noble diſpoſition, and leave in in ſome (it may be) a ſuſpition of my un<g ref="char:EOLhyphen"/>thankefulneſſe: For which pious expreſ<g ref="char:EOLhyphen"/>ſion of your favour unto me, as alſo your many precedent (beſides the reward which ſuch works of charity carry with the<g ref="char:cmbAbbrStroke">̄</g>) your Ladyſhip ſhall ever have my prayers and
+<pb facs="tcp:176866:4"/>thankes, and as the humble acknowledge<g ref="char:EOLhyphen"/>ment of my obligation to your Honour, ſo any future ſervice when you ſhall pleaſe to deſcend ſo low as to command it from</p>
+            <closer>
+               <signed>Your Honours humble beadſ-man to diſpoſe of GEO: IAY.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:176866:4"/>
+            <head>A SERMON PREACHED AT THE COVRT.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REVEL. 2.10.</hi>
+                  </bibl>
+                  <p>Be thou faithfull unto Death, and I will giue thee a Crowne of life.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">G</seg>Od is the beſt Paymaſter, he that labours in his Vineyard ſhall be ſure of his hire though he comes at the laſt houre, <hi>Math.</hi> 20.9. They that doubled their ta<g ref="char:EOLhyphen"/>lents in the Goſpell received not verball but reall rewards, <hi>Math.</hi> 25.20. And a cup of cold water given in his name ſhall not be un<g ref="char:EOLhyphen"/>paid for, <hi>Math.</hi> 10.42. And the faith of the thiefe upon the Croſſe at the laſt gaſpe ſhall bee recompenced with a place in Paradiſe,
+<pb n="2" facs="tcp:176866:5"/>
+               <hi>Luk.</hi> 23.43. If <hi>Abraham</hi> will walke before God, and bee perfect, hee will make a cove<g ref="char:EOLhyphen"/>nant with him, and bleſſe him exceedingly, <hi>Gen.</hi> 17.1.2. Gods reward and mans ſervice are Relatiues: <hi>Poſito vno, ponitur &amp; alterum,</hi> Say the one, and you cannot deny the other. If our obedience preceede, his bleſsings will follow, if one bee in the premiſes, the other will be in the concluſion; if we come before his preſence with praiſe, and thankeſgiving, and ſhew our ſelues glad in him with <hi>Pſalmes,</hi> he will be mercifull unto us, and bleſſe us, and ſhew us the light of his countenance, and be mercifull unto us; <hi>Fac hoc, &amp; viues,</hi> Doe this and thou art ſure of life everlaſting, <hi>Luk.</hi> 10.28. Sure to eate of the Tree of life, as in the ſeventh verſe of this chapter, ſure not to be hurt of the ſecond death, as in the eleaventh verſe, and according to my Text, <hi>Eſto fidelis,</hi> and <hi>Corona vitae</hi> will follow, it is God that ſaies it. <hi>Be thou faithfull, &amp;c.</hi>
+            </p>
+            <p>Which words you are to underſtand as ſpoken by Chriſt Ieſus the head to every faithfull member of his Church, to whom he propoſeth a duetie to be performed, Faith<g ref="char:EOLhyphen"/>fulneſſe unto death, and a reward to bee re<g ref="char:EOLhyphen"/>ceived, a crowne of life.</p>
+            <p>So as the diviſion is eaſie, a duetie, and a promiſe. In the duety I obſerue two things. Firſt the ſubſtance, or matter of it, Faithful<g ref="char:EOLhyphen"/>neſſe, wee muſt bee faithfull. Secondly the
+<pb n="3" facs="tcp:176866:5"/>Determination, Extent or Meaſure of it, un<g ref="char:EOLhyphen"/>till Death.</p>
+            <p>In the Promiſe, I alſo obſerue two things. Firſt the reward it ſelfe, a Crowne, I will giue thee a Crowne. Secondly the ſpecification, or quality of the Reward, an immortall Crowne, I will giue thee a Crowne of life.</p>
+            <div type="part">
+               <head>Be thou faithfull, &amp;c.</head>
+               <p>I beginne with the firſt part, our ſervice: And good reaſon our ſervice ſhould goe be<g ref="char:EOLhyphen"/>fore the Reward to our ſervice. Therefore firſt we are to be faithfull. <hi>Be thou faithfull un<g ref="char:EOLhyphen"/>to Death, &amp;c.</hi>
+               </p>
+               <p>And I will proceed according to the or<g ref="char:EOLhyphen"/>der of nature, and conſider firſt the ſubſtance of faithfulneſſe, and then the continuance. And then I ſhall tell you by this word faith<g ref="char:EOLhyphen"/>fulneſſe, wee are not to underſtand that habit of the ſoule, whereby wee apprehend, and lay hold upon the mercy and favour of God in our regeneration, and firſt converſion, which the ſcripture cals faith, and whereby wee beleeue, and yeeld aſſent unto all the articles of our Chriſtian doctrine, which is the roote and fountaine of all Chriſtian du<g ref="char:EOLhyphen"/>ties. But we are to conceiue it of that faith<g ref="char:EOLhyphen"/>fulneſſe which ſprings as an effect or fruite from that roote, and includes a iuſt diſcharge of thoſe duties which God requires at our hands: As alſo an vniverſall obedience to all
+<pb n="4" facs="tcp:176866:6"/>his Commandements. You know that wee are all Stewards unto the great Lord of hea<g ref="char:EOLhyphen"/>ven, and ſent into the earth to trafficke and negotiate with thoſe talents which hee hath committed to every one of us in our ſeverall places. Now ſaith Saint <hi>Paul</hi> in the 1. <hi>Cor.</hi> 4. that it is required in a Steward, that hee bee found faithfull, that is iuſtly, and honeſtly to husband, and diſpenſe thoſe things that are intruſted to his charge, according to the will and pleaſure of his Lord and Maſter.</p>
+               <p>Now the maine rule that muſt direct us in the guiding and governing of all our purpo<g ref="char:EOLhyphen"/>ſes, behaviours, and actions muſt bee the glory of God; Hee hath created all things for his owne ſake ſaith <hi>Salomon, Prov.</hi> 16. that is, for his owne glory. This is the tribute that he requires of every man, this muſt ariſe unto him out of every action; Wee are not our owne ſaith the Apoſtle, wee are bought with a price,
+<note place="margin">1. <hi>Cor.</hi> 6.20.</note> therefore glorifie God in your bodies and in your ſoules. The whole man muſt bee faithfull in giving God his glory; the thoughts that we thinke they muſt bee re<g ref="char:EOLhyphen"/>ligiouſly, and faithfully conceived to the ho<g ref="char:EOLhyphen"/>nour of God. I will giue thankes unto God ſecretly amongſt the faithfull, ſaith the Pſal<g ref="char:EOLhyphen"/>miſt, <hi>Pſal.</hi> 111.1. And yet not onely in our thoughts ſecretly, but in our words openly, in the congregation, as it followeth in the end of the ſame verſe.</p>
+               <pb n="5" facs="tcp:176866:6" rendition="simple:additions"/>
+               <p>And as we muſt bee faithfull in glorifying him in our thoughts and words, ſo likewiſe in our deeds; the light whereof muſt ſo ſhine before men, that they ſeeing our good works may glorifie God our Father which is in Heaven.</p>
+               <p>And note what a ſtrict courſe the Lord hath taken for the gathering up of this tribute of his glory out of every thing. He will call us to a reckoning for our ſecreteſt cogitations: Inquiſition ſhall bee made into our very thoughts. If you ſpeake but a word that doth not ſome way or other tend to his glory, tis an idle word, and we muſt account for idle words in the day of iudgement; if then wee doe a deed that aimes not at this end, ſhall we thinke not to bee queſtioned for it? Wee muſt all appeare before the iudgement ſeate of the Lord, to giue an account of thoſe things that we haue done in the body. There<g ref="char:EOLhyphen"/>fore our body and our ſoule, our thoughts, words and deeds, muſt all bee ordered, and husbanded ſo faithfully and iuſtly, that God may haue his due, his Honour, and his Glo<g ref="char:EOLhyphen"/>ry by it. And if wee haue beene faithfull in a little, hee will make us Rulers over much, <hi>Math.</hi> 25.23. And by way of commendation tell us, <hi>It is well done good and faithfull ſervants,</hi> and then bid us enter into our Maſters ioy, where wee ſhall haue a Crowne of life, if wee haue diſcharged our duety as much
+<pb n="6" facs="tcp:176866:7"/>as in us lyes, and beene obedient and faithfull unto Death. And that is my ſecond part, the continuance, extent or meaſure of our thank<g ref="char:EOLhyphen"/>fulnes, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which hath a twofold mea<g ref="char:EOLhyphen"/>ning, and may yeeld us matter of inſtruction both wayes. For firſt, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> is unto death, and then it ſignifies ſuch a ſervice, and ſuch faithfulneſſe, as will not ſhrinke at any affliction, or proſecution whatſoever, but goes on couragiouſly, and reſolutely if need be to the laying downe of our life, and con<g ref="char:EOLhyphen"/>tinues faithfull even unto death. Secondly, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſignifies untill death, and then it be<g ref="char:EOLhyphen"/>tookens ſuch a ſervice, and ſuch an obedience as continues all our life long, never failes of the diſcharge of 'its duty as long as we haue a day to liue, but continues, and goes on from day to day, from yeare to yeare, as long as we haue any being, even untill death.</p>
+               <p>Firſt then our duty muſt be ſtrong, ſubſtan<g ref="char:EOLhyphen"/>tiall, well wrought, and cloſe woven, and ſuch as will not ſhrinke, neither with the water of affliction, nor with the fire of perſecution, nor be ſhaken with the winde of temptation, but indure all extremities, even death it ſelfe. We muſt be faithfull unto death: And then it muſt hang upon the ſame threed that our life doth, and both muſt runne on together, and as long as the one laſteth ſo long muſt the other, and our ſervice muſt be faithfull untill death.</p>
+               <p>Firſt then of the couragiouſneſſe of our ſer<g ref="char:EOLhyphen"/>vice
+<pb n="7" facs="tcp:176866:7"/>that it muſt not ſhrinke at any thing, no not at death it ſelfe. <hi>Omne majus continet in ſe minus,</hi> that every leſſer thing is conteyned in the greater, is a ground, and principle in na<g ref="char:EOLhyphen"/>ture, which every man knowes. If then our ſervice muſt be faithfull unto death which is <hi>extremum malorum,</hi> the greateſt of evills, then it muſt bee faithfull unto perſecution, impri<g ref="char:EOLhyphen"/>ſonment, loſſe of goods, diſgraces and repro<g ref="char:EOLhyphen"/>ches, which are but leſſer evills, even petty, and ſlight afflictions as the Apoſtle calleth them. My ſonne ſayth <hi>Solomon</hi> when thou entreſt into the houſe of the Lord, prepare thy Soule for temptations: and our Saviour in the 10. of <hi>Matthew</hi> ſayes, if any man will fol<g ref="char:EOLhyphen"/>low me, and be my Diſciple, let him take up his Croſſe, and follow me, let him deny him<g ref="char:EOLhyphen"/>ſelfe, not make dainty of any thing he hath, no not of his life. He that will ſave his life ſhall loſe it, and hee that deſires to have a Crowne of life, muſt bee faithfull unto death.</p>
+               <p>The way to Heaven is not paved with the pleaſures of this world, nor ſtrow'd with the flowers of humane delights, but through ma<g ref="char:EOLhyphen"/>ny tribulations wee muſt enter into the king<g ref="char:EOLhyphen"/>dome of Heaven, ſayth Saint <hi>Paul</hi> in the 14. <hi>Acts</hi> 22. And our Saviour which is our head, he hath led the way and trod the path before us, and firſt wore the crowne of Thornes, be<g ref="char:EOLhyphen"/>fore he put on his Crowne of glory, hee firſt
+<pb n="8" facs="tcp:176866:8" rendition="simple:additions"/>ſerved his Father faithfully unto death, and then was rewarded with a Crowne of life. No ſooner doe we enter our ſelves into the ſervice of God, and put on us the livery of him that is the Father of lights, but preſently the whole kingdome of darkeneſſe is up in armes againſt us, the Prince whereof leads the battaile, and he warrs againſt us with all the temptations that his malice can ſuggeſt. And not content with his owne ſtrength, hee ſtirs up the world againſt us, <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ur Saviour tels his Diſciples, becauſe you are not of the world, therefore the world will hate you; and this hatred it will ſhew by defaming our Credit, ſpoyling us of our goods, perſecuting of our bodies, yea &amp; ſometimes by taking away our liues too. Nay further, this ſubtill adverſa<g ref="char:EOLhyphen"/>rie of ours like a politicke Statiſt, will not onely warre againſt us with open hoſtilitie, but he will ſtirr up enemies within our owne gates, and kindle a fire in our owne houſe, and raiſe up this traiterous and rebellious fleſh of ours, which we nouriſh in our owne boſomes like a falſe brother to ſeduce, and entrap us; this fleſh perplexeth us with feares, enveigles us with hopes, allures us with baites, diſtracts us with cares, and torments us with paines, and vſeth a thouſand ſleights, and fetches to make us betray our Chriſtian profeſſion, and revolt from that God to whom in our bap<g ref="char:EOLhyphen"/>tiſme we ſwore our alleageance to be his con<g ref="char:EOLhyphen"/>ſtant
+<pb n="9" facs="tcp:176866:8"/>ſouldiers, to fight under his banner, and to doe him faithfull ſervice in ſpight of the world, the fleſh, and the Devill, or all extre<g ref="char:EOLhyphen"/>mities that can betide us, whether they are the miſeries of nature, the frownes of fortune, yea or the loſſe of life, even unto death it ſelfe. This is the vow, this is the profeſſion, and this is the promiſe that wee haue made in baptiſme: And wee haue it ſealed and confir<g ref="char:EOLhyphen"/>med with the ſigne of the Croſſe, the ſacred ſigniture, and character whereof ſtands im<g ref="char:EOLhyphen"/>printed in our foreheads to teſtifie to the world, that we haue made ſuch a vow to hea<g ref="char:EOLhyphen"/>ven, and to encourage us to confront any enemy being armed with an <hi>In hoc ſigno vin<g ref="char:EOLhyphen"/>ces,</hi> and to convince us of cowardiſe if wee ſhrinke or draw backe. Our life is a Warfare, and what ſhould a coward doe in the warres that cannot endure the aking of a finger, is hee fit to bee the ſouldier of that Captaine that entred not into life, but by the gates of death? Our Countrie is in heaven, and the world is but our pilgrimage, and therefore they are much deceived, ſaith Saint <hi>Auguſtine, Qui quaerunt vitam in regione mortis,</hi> that ſeeke for life and pleaſure in this region of miſerie, and death. A heathen man could ſay, <hi>Non eſt delicata res vincere.</hi>
+                  <note place="margin">Seneca.</note> heere is no Pa<g ref="char:EOLhyphen"/>radiſe, noe heaven on earth, but in the ſafety of a good conſcience. Our time of raigning
+<pb n="10" facs="tcp:176866:9"/>and triumphing is reſerved for us in heaven, this is a time of duety and ſervice, and ſuch ſervice as muſt bee couragious, and not ſhrinke at any thing, but continue conſtant, and faithfull unto death. And here let us deſ<g ref="char:EOLhyphen"/>cend every man into his owne heart, and try, &amp; examine our ſelues how we ſtand affected to the performance of this duety, whether we could bee content to bee Gods faithfull ſer<g ref="char:EOLhyphen"/>vants, and ſticke cloſe to him though it were to the loſſe of goods, or our reputation, or our friends, or our life it ſelfe, and be faithfull unto death; And I doubt not, but that wee haue preſumption enough to flatter our ſelues ſo farre, as to beleeue, and profeſſe, and per<g ref="char:EOLhyphen"/>haps to bragge, and vaunt that wee are ready to follow our Captaine Chriſt Ieſus whither ſoever hee goes, though it were to the ſhed<g ref="char:EOLhyphen"/>ding of our bloods, the ſpending of our liues even unto death. I make no queſtion but that wee beleeue this of our ſelues, and wee would make the world beleeue ſo too. But what ſaies Saint <hi>Iames?</hi> ſhew me thy faith by thy workes, let the world ſee our profeſsion by our actions, and let our vaunts bee made good by a reall, and actuall performance. Wheras if a man may be bold to iudge of the tree by the fruite, and to gueſſe at the faithful<g ref="char:EOLhyphen"/>neſſe of the heart by the action of the out<g ref="char:EOLhyphen"/>ward man, and by thoſe things which are
+<pb n="11" facs="tcp:176866:9"/>daily preſented to our eyes, I thinke wee ſhould haue much to doe to perſwade any ad<g ref="char:EOLhyphen"/>viſed, and conſiderate man, that our faithful<g ref="char:EOLhyphen"/>neſſe is ſuch as would endure all extremities. And that wee would faithfully follow our Captaine if <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed were unto death. Why the very cenſure of lewd, and reprobate perſons is enough to flout us out of our Chriſtian profeſſion, and we would faine doe God that faithfull ſervice which our owne conſcience tels us we owe him, but that wee are afraid we ſhall fall into diſgrace with the world, and that men will account us over preciſe, and too religious. This is but a ſlight paine, and far enough from the heart (a man would thinke) and yet even this as ſlight as it is, kils the faithfulneſſe of many ſtout Chriſtians by their owne report, and makes them revolt from their captaine and turne renegadoes, I will not ſay turne Turke, but which is worſe, cary a Turkes heart under a Chriſtians live<g ref="char:EOLhyphen"/>ry. Neither hath this beene the cowardli<g ref="char:EOLhyphen"/>neſſe of the curſed multitude onely, but even of profeſſed leaders and eminent comman<g ref="char:EOLhyphen"/>ders, even the Scribes and Phariſees, we may ſee it in the twelfth of <hi>Iohn.</hi> There their con<g ref="char:EOLhyphen"/>ſciences were ſo plainely convinced by the power of Chriſts doctrine, and miracles that their hearts could not chuſe but tell them that he was the Meſſias; yet ſaies the Text, they
+<pb n="12" facs="tcp:176866:10"/>could not beleeue in him, nor make profeſſi<g ref="char:EOLhyphen"/>on of him for their reputation ſake; becauſe they loved the praiſe of men more then the praiſe of God, verſe 42.43. Nay, a farre leſſe matter then this ſcarres us from our faithful<g ref="char:EOLhyphen"/>neſſe. Let our Saviour come for faithfulnes, and call us to his ſervice, not into the field to venter our liues, but into the Church where is no danger of life or limme (except we are afraid perhaps of breaking our knees, but we will take order againſt that well enough, and therefore wee will bee ſure not to bow them) Let him I ſay but call for our faithfulneſſe and ſervice at Church, and wee haue our ſports to follow, our proiects to contriue, our viſits to make, our Miſtreſſes to court, and they their dreſſes and faces to order, and compoſe for all the day after; any thing ſhall ſerue turne to divert us from his ſervice, and to deny him that faithfulneſſe which wee are bound to performe unto him, what ever came of it, though it were to the looſing of our liues, for the duety that is here inioyned is faithfulneſſe unto death; Bee thou faithfull unto death. I haue done with <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, unto death. I come now unto <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> untill death. And then it puts us in mind of the conſtancie of our dutie, that it muſt laſt and continue as long as our life doth; the Spirit of God hath ioyned them both together, let none of us
+<pb n="13" facs="tcp:176866:10"/>be ſo hardy as to venter and ſunder them, but let them run on both together in Gods name, and as farre as our life goes, ſo farre let our faithfulneſſe even untill death comes. In the affaires of this life it is a ſhame for a man to beginne an enterpriſe and not to goe thorow with it, every man points at him with his fin<g ref="char:EOLhyphen"/>ger, derides, and geeres him; this man began to build, and was not able to finiſh it.</p>
+               <p>In the workes of our Chriſtian profeſſion, the ſhame is greater, the danger infinite, and therefore Saint <hi>Paul</hi> befooles his Galathians when they fell from their faithfulneſſe which once they profeſſed, hee tells them they were bewitched, or elſe ſuch a thing could never have befallen them.
+<note place="margin">
+                     <hi>Gal.</hi> 3.1.</note> O ye fooliſh Galathians who hath bewitched you, are yee ſo fooliſh as having begunne in the Spirit to end in the fleſh? If a Man beginne a peece of worke, and leave it off in the middle, hee hath taken a good deale of paines to no other purpoſe, but to leave a Monument of his folly, and vanity to the world. Hee that hath received the common graces of God, and many good gifts of his Spirit, which have enabled him to doe much good and faithfull ſervice, and then takes the grace of God and turnes it into wantonneſſe, and ſmothers and quen<g ref="char:EOLhyphen"/>cheth the Spirit, comes neere unto dangerous ſymptomes of a more dangerous ſtate. When
+<pb n="14" facs="tcp:176866:11"/>a man is in a faire way to heaven, and hath ſome time walkt on religiouſlly and faithful<g ref="char:EOLhyphen"/>ly, till hee hath come within ſome ſence of his reward, &amp; within ſome view of his Crowne by common enlightnings: then to turne out of the way; and Apoſtate into the broade way, what is it elſe but to tread in a path that without repentance will leade to deſtruction. And therefore it is ſaid in the 6. Chap. of the Epiſtle to the Hebrewes, that it is impoſſible that they which were once enlightned and have taſted of the heavenly gift, and were made partakers of the Holy Ghoſt if they fall away, ſhould bee renewed againe by repen<g ref="char:EOLhyphen"/>tance, ſeeing they crucifie to themſelues the Sonne of God afreſh, and put him to an open ſhame. Heere I could give you many exam<g ref="char:EOLhyphen"/>ples of revolters and backſliders, and ſhew you to what a height of impiety they have growne when once they have forſaken God and that goodneſſe they have begun to pro<g ref="char:EOLhyphen"/>feſſe, which for brevitie ſake I will omit and conclude this poynt with the exhortation of the Apoſtle in the 3. to the <hi>Hebr.</hi> ver. 12.13. Take heed brethren leaſt at any time there be in any of you an evill heart, and unfaithfull to depart away from the living God, but exhort one an other daily whileſt it is yet called to day leaſt any of you be hardned through the deceitfulneſſe of ſinne, for we are made parta<g ref="char:EOLhyphen"/>kers
+<pb n="15" facs="tcp:176866:11"/>of Chriſt, if wee hold the beginning of our confidence ſtedfaſt unto the end, and my Text ſayes, If wee continue faithfull untill death, the God of life and death will give us a Crowne of life. And thats my ſecond ge<g ref="char:EOLhyphen"/>nerall part.</p>
+            </div>
+            <div type="part">
+               <head>The Promiſe.</head>
+               <q>
+                  <l>
+                     <hi>I will give thee a Crowne of Life.</hi>
+                  </l>
+                  <l>Ego dabo tibi Coronam vitae.</l>
+               </q>
+               <p>And heere every word yeelds matter of obſervation. I will begin with the firſt word <hi>Ego,</hi> and that is either taken <hi>eminenter</hi> by way of eminencie. And then tis I the God of heaven and earth that decke my ſelfe with light as with a garment, that make the clouds my chariots and ride upon the wings of the winde. I will give this Crowne.</p>
+               <p>Great perſons give great gifts: <hi>Alexander</hi> gave a talent to a begger, not conſidering what was fit for the other to receive, but for him to give. Heere God ſprinkles Crownes now and then one, a few in an age all the world over, but in the next life he makes them all Kings, as it were ſhowring and rayning Crownes from his glorious head, upon his glorified members.</p>
+               <pb n="16" facs="tcp:176866:12"/>
+               <p>Secondly heere is <hi>Ego excluſivè,</hi> I, by way of excluſion. And then it is I, and none but I, that give theſe Crownes.</p>
+               <p>This preferment, theſe Crownes come nei<g ref="char:EOLhyphen"/>ther from the Eaſt, nor from the Weſt, nor from the South, but from God alone.</p>
+               <p>Tis not S. <hi>Peters</hi> keyes that can open the doore of that kingdome, nor unlocke the trea<g ref="char:EOLhyphen"/>ſury where theſe Crownes are layd up, he keepes the key himſelfe.</p>
+               <p>And if you will give me leave to ſlide from Spirituall to temporall Crownes, then I ſhall tell you that God is the diſpoſer of them alſo. By me Kings reigne.
+<note place="margin">
+                     <hi>Prou.</hi> 8.15.</note> As was ſayd of him by a wiſer man then any of thoſe that ever uſur<g ref="char:EOLhyphen"/>ped that power.</p>
+               <p>And tis but a ridiculous intruſion <hi>extrá juriſdictionem jus dicere.</hi> To execute the power of a Iudge where a man hath no juriſ<g ref="char:EOLhyphen"/>diction; Or to give that which he hath not in his owne power to beſtow, which is none of his. This is like the folly of the mad Athe<g ref="char:EOLhyphen"/>nian that tooke all the ſhips in the haven to be his owne, and ſo gave them away where hee pleas'd, as if he had beene the true and right Maſter of them: Or like the divell that tooke the Sonne of God into an exceeding high mountaine, and ſhewed him all the kingdomes of the world &amp; the glory of them, proffering all unto him if he would fall downe and wor<g ref="char:EOLhyphen"/>ſhip
+<pb n="17" facs="tcp:176866:12"/>him. When all thoſe kingdomes, and Crownes were his Lords inheritance, and the donation of them his prerogative. And they hold them but by a falſe tenure that receive them from any other <hi>Donor.</hi> God is Iudge himſelfe, hee putteth downe one, and ſetteth up an other himſelfe, the word is not idle, hee doth it himſelfe ſayes the Pſalmiſt. And for this crowne it is not to bee bought as <hi>Iulianus</hi> the Emperour bought the Roman Empire, nor to be ſold as the Papall diſpoſer of king<g ref="char:EOLhyphen"/>domes doth bargaine for it. But God him<g ref="char:EOLhyphen"/>ſelfe beſtowes it. Hee needs no Vicar upon earth for that purpoſe. His hands are long enough to ſet the Crowne upon that head that muſt weare it: the words are plaine in my text, <hi>Ego Dabo. Dabo,</hi> and thats the next word which plainely ſhewes the manner how theſe Crownes are convey'd unto us, we have them not by a bargaine, or ſale, but by a deed of gift. This Crowne is no purchaſe but a do<g ref="char:EOLhyphen"/>nation.</p>
+               <p>Wee may talke, or we may dreame, of me<g ref="char:EOLhyphen"/>riting, or earning this Crowne, but we ſhould bee but poorely rewarded, if God ſhould deale with us according to the proportion of our workes. Our workes at the beſt are ſtai<g ref="char:EOLhyphen"/>ned with the imperfections and blemiſhes of our corrupted nature; ſo that the moſt that we could hope for, was pardon for their de<g ref="char:EOLhyphen"/>fect.
+<pb n="18" facs="tcp:176866:13"/>And for a Delinquent that ſhould ſue for his pardon to claime to ſit in the throne with his Soveraigne, were a preſumption ſo intollerable, that if wee ſhould be guilty of it, heaven and earth would cry out ſhame upon us, and condemne us for idiots.</p>
+               <p>Ther's not a word in this part of my text, but will ſerue for an exception againſt that abſurd claime by merit. Take <hi>Ego</hi> an offended God, and what is he bound to doe in iuſtice? take <hi>Dabo,</hi> and what more free and <hi>non</hi> meri<g ref="char:EOLhyphen"/>ted then gift? wee muſt ſtrike out that word if wee meane to make any claime by merit. Take <hi>Tibi,</hi> and what is man but a guilty male<g ref="char:EOLhyphen"/>factor. There is ſuch a gulfe of ſinne, betwixt <hi>Ego</hi> and <hi>Tibi</hi> that nothing can paſſe betweene them by way of Iuſtice, but puniſhment and vengeance.</p>
+               <p>Or take man at the beſt, &amp; he is but an offen<g ref="char:EOLhyphen"/>der reconciled to grace and favour, and recei<g ref="char:EOLhyphen"/>ved to mercy, ſo that every word cuts the throat of merit. Or take the word <hi>Coronam,</hi> &amp; and who that hath the diſpoſing of it, will ſet it upon the head of a Captaine? Or put the o<g ref="char:EOLhyphen"/>ther word to it, and make it <hi>Coronam vitae,</hi> and what an impudent demand were it for him to claime the Crowne of life, who all the world knowes hath deſerved the ſhakles of death. They are bold attempters that dare adven<g ref="char:EOLhyphen"/>ture to breake downe all thoſe barres; there
+<pb n="19" facs="tcp:176866:13"/>is not a word here but is a fenſe good enough to keepe out all that would take poſſeſſion of this Crowne by way of merit. For 'tis <hi>Ego dabo tibi. Tibi.</hi>
+               </p>
+               <p>
+                  <hi>Tibi</hi> by way of Argument I haue handled already, but yet I will not let it goe untill I haue obſerved it to our comfort. <hi>Luther</hi> ſaies well, that there is a great deale of divinity in pronouns; giue me leaue to goe a little further, and to tell you that there is a great deale of comfort in pronouns too. Not onely ſtrong divinitie to ground an argument, but ſtrong conſolation to comfort a weake ſpirit. <hi>Tibi</hi> is a word of ſingularity, and will con<g ref="char:EOLhyphen"/>tract Gods generall promiſes to every man in particular, if the fault bee not his owne. God Almighties promiſes are like a well made picture; though there bee an hundred in the roome in divers places and poſtures, yet the picture ſeemes to looke upon every one of them in particular, and wee cannot avoyd the aſpect of it except wee turne our eyes aſide.</p>
+               <p>
+                  <hi>Tibi,</hi> doth particularize and brings downe this Crowne upon every mans head. And indeed a particular word doth well for <hi>Coro<g ref="char:EOLhyphen"/>na.</hi> For 'tis a ſingle head that muſt be ingirt with a Crowne. <hi>Regnum non patitur conſortem,</hi> A Crowne cannot bee ſet upon the heads of two men at once, much leſſe upon a many
+<pb n="20" facs="tcp:176866:14"/>headded multitude. This Crowne will fit but a ſingle head, 'tis <hi>Ego dabo tibi Coronam.</hi>
+               </p>
+               <p>
+                  <hi>Corona.</hi> A Crowne is the higheſt honour and happineſſe upon earth, 'tis a Circle that takes in all that the earth can afford. And therefore if wee will take a reſemblance of the Saints glory from any thing in this world earth cannot yeeld a higher, then to call it a Crowne. He that weares the Crowne ſwayes and commands all within the orbe of his power. But the greateſt Scepter-ſwayer that this world affords, is oftentimes overſwayed and borne downe by his owne paſſions and infirmities. But when this Crowne ſhall be ſet upon our heads, ther's not the meaneſt vaſ<g ref="char:EOLhyphen"/>ſayle but ſhall feele more content, in having dominion, and power, and free command over himſelfe, then the greateſt Monarch ever found, in being able to moue a whole Em<g ref="char:EOLhyphen"/>pire of ſubiects with the breath of his mouth. A Crowne is circular, when once you are in it, you may run round without end which caries it aboue the ſpheare of mortalitie, and makes it truely a Crowne of life, and that's my laſt word.</p>
+            </div>
+            <div type="part">
+               <head>Corona vitae.</head>
+               <p>I know not whether a man may ſafely ſay that this paſſage of ours from earth to earth, from the wombe to the tombe bee a life or
+<pb n="21" facs="tcp:176866:14"/>no. I thinke that which one ſaid of men at ſea, that he knew not whether they might be reckoned amongſt the living or the dead, may be as well ſaid of all that are a ſhoare; for he that now breaths with the greateſt ſtrength and freedome, may preſently breath out his laſt <hi>ſpiramus, expiramus;</hi> our breath, like the doue of <hi>Noahs</hi> arke, goes out, and comes in, goes out and never returnes againe. Saint <hi>Paul</hi> ſaies, wee die daily. And our Saviour Chriſt that knew better how to tearme this naturall being of ours then wee our ſelues, ſayes they are but dead men that carie others to Church. The dead bury the dead, <hi>Luk.</hi> 9. verſe 60. Hee therefore that will thinke to find true contentment in a Crowne, muſt ſeeke it where no death is to bee found, here is nothing but ſinning, therefore nothing but dying, in heaven nothing but obedience, and therefore nothing but life. There is <hi>Corona vitae,</hi> a Crowne that ſhall laſt for ever, and that's the tearme for which wee hold it. Tis not given to vs and our heires for ever, but to us and our owne perſons for ever. And this doth diſtinguiſh it from all other gifts in the world. Men thinke to make thei<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deeds, and grants immortall and to continue for ever, they are conveied to them, and their heir<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s for ever. But the Prophet ſayes in the 37. <hi>Pſalme,</hi> that another takes poſſeſſion of them
+<pb n="22" facs="tcp:176866:15"/>and he ſought them, and they were no where to bee found. Whereas this <hi>Ego</hi> in my text giues to this <hi>Tibi,</hi> this gratious maſter to his faithfull ſervant an immortall gift, a Crowne of life which ſhall make him liue for ever.</p>
+               <p>And now if wee ioyne all the words to<g ref="char:EOLhyphen"/>gether, <hi>Ego daho tibi Coronam vitae.</hi> Wee ſhall find that hee hath given us a gift in proporti<g ref="char:EOLhyphen"/>on, in weight, and meaſure ſo farre beyond our ſervice,
+<note place="margin">
+                     <hi>Rom.</hi> 8.18.</note> that wee haue reaſon to confeſſe with Saint <hi>Paul,</hi> that our ſufferings and faith<g ref="char:EOLhyphen"/>fulneſſe is not worthy of the glory that ſhall be revealed vnto us, the Crowne of life that ſhall be beſtowed upon us. And therefore we had need make a ſtand and cry out with the Prophet <hi>David. O Lord what is man that thou art ſo mindfull of him,</hi>
+                  <note place="margin">
+                     <hi>Pſal.</hi> 144.3.</note> 
+                  <hi>or the ſonne of man that thou ſo regardeſt him.</hi> Had it not beene enough O Lord to make us little inferior to the Angels, but thou muſt giue us a kingdome, and crowne us with honour and glory, and ſuch a kingdome, and ſuch honour, and ſuch glory, as ſhall haue no end. Though the Kings of the earth are crowned, and the Scripture call the<g ref="char:cmbAbbrStroke">̄</g> Gods; Yet they are but mortall Gods, and weare but corruptible crownes; and the time ſhall come that will lay theſe Gods, and theſe crownes low enough in the duſt, and theſe Gods and theſe crownes ſhall bee turned into duſt into nothing. But let this bee their
+<pb n="23" facs="tcp:176866:15"/>comfort; as God hath loved them with an everlaſting loue, ſo hee will crowne them hereafter with an everlaſting Crowne; A Crowne of ſuch mettle that the ruſt of time ſhall never eate into, not the continuance of eternity one for diminiſh the glory of it, it ſhall bee an incorruptible crowne. Death it ſelfe ſhall haue no power over it, it ſhall been Crowne of life. The Crowne ſhall be fitted to the head, and the head to the Crowne, an incorruptible Crowne upon an importall head. As our bodies and ſoules ſhall liue for ever, So our Crowne ſhall bee a crowne of life. <hi>Bee thou faithfull, &amp;c.</hi>
+               </p>
+               <p>Now the God that gaue us our being, en<g ref="char:EOLhyphen"/>able us to the performance of this duety, and incline our hearts to ſerue him continually without interruption, faithfully without diſſi<g ref="char:EOLhyphen"/>mulation. Let our devotion be ſincere, and then O Lord continue it untill death. And after that according to thy promiſe (and thou O God art iuſt in thy promiſes) crowne us with glory, and life to ſerue thee in thy kingdome for evermore. Now to God the Father, &amp;c. Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
